@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "atom": "^1.4.2",
+    "node": "^21.1.0",
+    "node.js": "^0.0.1-security",
+    "phaser": "^3.70.0",
+    "three": "^0.158.0"
+  }
+}
